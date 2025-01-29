@@ -1,4 +1,4 @@
-Name: John Vincent Augusto
+Name: Babylabs
 Address: Sitio, KabangKabang Lapu-Lapu City
 Age: 20
 School: CTU-Main
