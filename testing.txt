@@ -1,5 +1,4 @@
-Name: Lovelove
-Name: Babylabs
+Name: Tangina mo
 Address: Sitio, KabangKabang Lapu-Lapu City
 Age: 20
 School: CTU-Main
